@@ -7,9 +7,7 @@ import TestimonialSection from '@/components/sections/TestimonialSection';
 import CtaSection from '@/components/sections/CtaSection';
 import BrandSection from '@/components/sections/BrandSection';
 
-/**
- * About page — company story, stats, team and social proof.
- */
+
 export default function About() {
   return (
     <>
