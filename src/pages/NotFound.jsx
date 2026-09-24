@@ -1,8 +1,5 @@
 import Button from '@/components/common/Button';
 
-/**
- * 404 fallback page.
- */
 export default function NotFound() {
   return (
     <section className="flex min-h-[70vh] items-center justify-center bg-muted py-20">
@@ -16,7 +13,7 @@ export default function NotFound() {
           temporarily unavailable.
         </p>
         <Button to="/" className="mt-8">
-          Back To Home
+          return to Home
         </Button>
       </div>
     </section>
