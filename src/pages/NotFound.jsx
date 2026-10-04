@@ -10,7 +10,7 @@ export default function NotFound() {
         </h2>
         <p className="mx-auto mt-3 max-w-md">
           The page you are looking for might have been removed, renamed, or is
-          temporarily unavailable.
+          temporarily unavailable. Not Found 
         </p>
         <Button to="/" className="mt-8">
           return to Home
