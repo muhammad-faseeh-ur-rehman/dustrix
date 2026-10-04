@@ -8,7 +8,7 @@ import { posts } from '@/data/blog';
 export default function News() {
   return (
     <>
-      <PageBanner title="News & Blog" crumbs={[{ label: 'News' }]} />
+      <PageBanner title="News & Blog page" crumbs={[{ label: 'News' }]} />
 
       <section className="section">
         <div className="container grid gap-8 sm:grid-cols-2 lg:grid-cols-3">
