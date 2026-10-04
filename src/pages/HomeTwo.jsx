@@ -17,7 +17,7 @@ export default function HomeTwo() {
   return (
     <>
       <PageBanner
-        title="Welcome To Dustrix"
+        title="home two page"
         crumbs={[{ label: 'Home Two' }]}
         image={heroSlides[0]}
       />
