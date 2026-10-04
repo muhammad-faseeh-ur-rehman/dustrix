@@ -17,7 +17,7 @@ export default function HomeThree() {
   return (
     <>
       <PageBanner
-        title="Dustrix Home Page"
+        title="Dustrix Home three page"
         crumbs={[{ label: 'Home Three' }]}
         image={heroSlides[1]}
       />
