@@ -4,7 +4,7 @@ import CtaSection from '@/components/sections/CtaSection';
 import { team } from '@/data/team';
 
 /**
- * Team page listing all members.
+ * Team page listing all Welcome to Team page 
  */
 export default function Team() {
   return (
