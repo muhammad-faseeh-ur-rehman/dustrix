@@ -15,7 +15,7 @@ export default function Faq() {
         <div className="container max-w-3xl">
           <SectionTitle
             subtitle="Get Answers"
-            title="Frequently Asked Questions"
+            title="Frequently Asked Questions about how we work"
             description="Find quick answers to the questions we hear most often."
             className="mb-12"
           />
