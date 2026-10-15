@@ -40,7 +40,7 @@ export default function HomeThree() {
             </p>
             <img
               src={faqImage}
-              alt="Our team at work"
+              alt="Our team at work right now"
               loading="lazy"
               className="mt-8 rounded-lg"
             />
