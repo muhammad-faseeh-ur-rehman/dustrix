@@ -36,7 +36,7 @@ export default function HomeThree() {
             />
             <p className="mt-4">
               Everything you need to know about working with Dustrix. Can&apos;t
-              find your answer? Reach out to our team any time.
+              find your answer? Reach out to our team any time here.
             </p>
             <img
               src={faqImage}
