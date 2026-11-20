@@ -1,9 +1,7 @@
 import { Link } from 'react-router-dom';
 import { Icon } from '@/utils/icons.jsx';
 
-/**
- * News/blog post card with meta info and a link to the post details page.
- */
+
 export default function BlogCard({ post }) {
   return (
     <article className="group overflow-hidden rounded-lg bg-white shadow-card">
