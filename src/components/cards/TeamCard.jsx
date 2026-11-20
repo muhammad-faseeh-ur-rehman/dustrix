@@ -1,8 +1,5 @@
 import { Icon } from '@/utils/icons.jsx';
 
-/**
- * Team member card with image and social links revealed on hover.
- */
 export default function TeamCard({ member }) {
   return (
     <article className="group text-center">
