@@ -1,9 +1,5 @@
 import { Link } from 'react-router-dom';
 import { Icon } from '@/utils/icons.jsx';
-
-/**
- * Portfolio project card with hover overlay linking to project details.
- */
 export default function ProjectCard({ project }) {
   return (
     <article className="group relative overflow-hidden rounded-lg">
