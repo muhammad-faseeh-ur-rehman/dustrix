@@ -1,9 +1,6 @@
 import Button from '@/components/common/Button';
 import { Icon } from '@/utils/icons.jsx';
 
-/**
- * Pricing plan card. The `featured` plan is visually emphasised.
- */
 export default function PricingCard({ plan }) {
   return (
     <article
