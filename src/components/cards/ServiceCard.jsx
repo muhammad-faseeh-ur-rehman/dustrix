@@ -1,10 +1,6 @@
 import { Link } from 'react-router-dom';
 import { Icon } from '@/utils/icons.jsx';
 
-/**
- * Service card with image, icon badge and a "read more" link to the
- * service-details page.
- */
 export default function ServiceCard({ service }) {
   return (
     <article className="group overflow-hidden rounded-lg bg-white shadow-card transition-transform duration-300 hover:-translate-y-2">
