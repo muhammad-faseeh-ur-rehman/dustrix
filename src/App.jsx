@@ -1,12 +1,7 @@
 import { useEffect } from 'react';
 import AOS from 'aos';
 import 'aos/dist/aos.css';
-import AppRoutes from '@/routes/AppRoutes';
-
-/**
- * Root component. Initialises scroll animations once on mount and renders
- * the route table.
- */
+import AppRoutes from '@/routes/AppRoutes'
 export default function App() {
   useEffect(() => {
     AOS.init({
